@@ -87,6 +87,16 @@ body {
     background-color: #c7974f;
     color: white;
   }
+  .hamburger a:active{
+      color:#c7974f;
+  }
+  .hamburger a:visited{
+    color:black;
+}
+.hamburger a:link{
+    color:#c7974f;
+
+}
   
   .hamburger .icon {
     display: none;
